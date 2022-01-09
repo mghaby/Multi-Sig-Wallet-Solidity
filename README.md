@@ -15,7 +15,7 @@ The standard private key access model that we have today regarding the storage a
 
 ### Installing
 
-* `git clone https://github.com/mghaby/MultiSigWalletSolidity.git`
+`git clone https://github.com/mghaby/MultiSigWalletSolidity.git`
 
 ### Executing program
 
