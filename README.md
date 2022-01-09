@@ -1,4 +1,4 @@
-# Project Title
+# Multi-Signature Wallet Smart Contract
 
 This Solidity contract seeks to provide a free open-source multi-signature wallet smart contract built on the Ethereum Blockchain.
 
@@ -10,27 +10,19 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Solidity IDE ([Remix IDE](https://remix.ethereum.org/) is what I reccomend)
+* Test Blockchain Network ([Truffle](https://trufflesuite.com/) & [Ganache](https://trufflesuite.com/ganache/) is what I reccomend)
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* `git clone https://github.com/mghaby/MultiSigWalletSolidity.git`
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
 ```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
+1. Clone or copy and paste the Solidity src code into a Solidity IDE
+2. Deploy the contract on a test network
+3. Test and interact with the contract functions as you please
 ```
 
 ## Authors
