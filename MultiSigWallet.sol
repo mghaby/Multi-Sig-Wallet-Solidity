@@ -1,6 +1,8 @@
+// SPDX-License-Identifier: GNU
 pragma solidity ^0.8.10;
 
 contract MultiSigWallet {
+
     // Events
     event Deposit(address indexed sender, uint amount, uint balance);
     event SubmitTransaction(
