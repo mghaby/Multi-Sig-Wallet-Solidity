@@ -1,6 +1,6 @@
 # Project Title
 
-Simple overview of use/purpose.
+This Solidity contract seeks to provide a free open-source multi-signature wallet smart contract built on the Ethereum Blockchain.
 
 ## Description
 
@@ -51,3 +51,4 @@ This project is licensed under the GNU General Public License - see the LICENSE 
 ## Acknowledgments
 
 * [README-Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+* [Code Inspiration](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA)

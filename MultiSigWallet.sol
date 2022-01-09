@@ -56,7 +56,6 @@ contract MultiSigWallet {
 
 
     // Functions
-
     constructor(address[] memory _owners, uint _numConfirmationsRequired) {
         require(_owners.length > 0, "owners required");
         require(
