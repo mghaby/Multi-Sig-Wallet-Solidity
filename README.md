@@ -4,7 +4,7 @@ This Solidity contract seeks to provide a free open-source multi-signature walle
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The standard private key access model that we have today regarding the storage and transactions of cryptocurrency has a major security threat being itself. In the current model, the person with the private key holds all power and access to the wallet and its belongings. If someone with malicious intent was to access this key through something such as a hack, the wallet could very easily be liquidated. The multi-signature wallet model aims to solve this by requiring multiple keys in order to validate a transaction. The implementation of this smart contract will allow multiple users to essentially vote on each proposed transaction thus increasing security. If this contract was to be deployed to the main ethereum blockchain as well as an easy-to-use interface it would solve a major issue in the crypto-space.
 
 ## Getting Started
 
